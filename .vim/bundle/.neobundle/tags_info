@@ -1,0 +1,16 @@
+neobundle.vim
+neocomplete
+neosnippet-snippets
+neosnippet.vim
+nerdtree
+syntastic
+tagbar
+unite.vim
+vdebug
+vim-airline
+vim-colors-solarized
+vim-colorschemes
+vim-fugitive
+vim-plugin-minibufexpl
+vimproc.vim
+vimshell
